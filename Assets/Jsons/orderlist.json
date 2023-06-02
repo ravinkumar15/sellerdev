@@ -1,0 +1,253 @@
+{"orderlist":[
+    {
+      "order_id": "17880",
+      "location": "Chennai",
+      "sale_amount": "2000.00",
+      "activated_date": "22-04-2022",
+      "marketplace": "CazhOn",
+      "status": "New Order",
+      "status_bgcolor": "#FFF0ED",
+      "status_textcolor": "#FFA28D"
+    },
+    {
+      "order_id": "17884",
+      "location": "Salem",
+      "amount": "3500.00",
+      "date": "12-03-2022",
+      "marketplace": "CazhOn",
+      "status": "New Order",
+      "status_bgcolor": "#FFF0ED",
+      "status_textcolor": "#FFA28D"
+    },
+    {
+      "order_id": "17885",
+      "location": "Trichy",
+      "amount": "95000.00",
+      "date": "15-03-2022",
+      "marketplace": "ONDC",
+      "status": "Confirmed",
+      "status_bgcolor": "#DEDEE8",
+      "status_textcolor": "#ED647298"
+    },
+    {
+      "order_id": "17870",
+      "location": "Tirunelveli",
+      "amount": "1500.00",
+      "date": "15-03-2022",
+      "marketplace": "CazhOn",
+      "status": "Confirmed",
+      "status_bgcolor": "#DEDEE8",
+      "status_textcolor": "#ED647298"
+    },
+    {
+      "order_id": "17817",
+      "location": "Kanchipuram",
+      "amount": "2000.00",
+      "date": "18-03-2022",
+      "marketplace": "ONDC",
+      "status": "Rejected",
+      "status_bgcolor": "#F5DADF",
+      "status_textcolor": "#FE5B5B"
+    },
+    {
+      "order_id": "17849",
+      "location": "Madurai",
+      "amount": "1700.00",
+      "date": "20-03-2022",
+      "marketplace": "ONDC",
+      "status": "On delivery",
+      "status_bgcolor": "#DFF0FA ",
+      "status_textcolor": "#309DDB"
+    },
+    {
+      "order_id": "17894",
+      "location": "Coimbatore",
+      "amount": "1500.00",
+      "date": "26-03-2022",
+      "marketplace": "CazhOn",
+      "status": "Completed",
+      "status_bgcolor": "#D9F3EA ",
+      "status_textcolor": "#17B781"
+    },
+    {
+      "order_id": "17838",
+      "location": "Chennai",
+      "amount": "98000.00",
+      "date": "26-03-2022",
+      "marketplace": "ONDC",
+      "status": "New Order",
+      "status_bgcolor": "#FFF0ED ",
+      "status_textcolor": "#FFA28D"
+    },
+    {
+      "order_id": "17921",
+      "location": "Thoothukudi",
+      "amount": "100000.00",
+      "date": "30-03-2022",
+      "marketplace": "ONDC",
+      "status": "On delivery",
+      "status_bgcolor": "#DFF0FA",
+      "status_textcolor": "#309DDB"
+    },
+    {
+      "order_id": "17871",
+      "location": "Pondichery",
+      "amount": "15000.00",
+      "date": "01-04-2022",
+      "marketplace": "ONDC",
+      "status": "Completed",
+      "status_bgcolor": "#D9F3EA",
+      "status_textcolor": "#17B781"
+    },
+    {
+      "order_id": "17895",
+      "location": "Vellore",
+      "amount": "5000.00",
+      "date": "09-04-2022",
+      "marketplace": "ONDC",
+      "status": "Rejected",
+      "status_bgcolor": "#F5DADF",
+      "status_textcolor": "#FE5B5B"
+    },
+    {
+      "order_id": "17896",
+      "location": "Dharmapuri",
+      "amount": "3000.00",
+      "date": "12-04-2022",
+      "marketplace": "CazhOn",
+      "status": "Confirmed",
+      "status_bgcolor": "#DEDEE8",
+      "status_textcolor": "#ED647298"
+    },
+    {
+      "order_id": "17818",
+      "location": "Erode",
+      "amount": "500.00",
+      "date": "16-04-2022",
+      "marketplace": "CazhOn",
+      "status": "Confirmed",
+      "status_bgcolor": "#DEDEE8",
+      "status_textcolor": "#ED647298"
+    },
+    {
+      "order_id": "17897",
+      "location": "Chennai",
+      "amount": "6000.00",
+      "date": "19-04-2022",
+      "marketplace": "ONDC",
+      "status": "On delivery",
+      "status_bgcolor": "#DFF0FA",
+      "status_textcolor": "#309DDB"
+    },
+    {
+      "order_id": "17850",
+      "location": "Chennai",
+      "amount": "15000.00",
+      "date": "24-04-2022",
+      "marketplace": "CazhOn",
+      "status": "Confirmed",
+      "status_bgcolor": "#DEDEE8",
+      "status_textcolor": "#ED647298"
+    },
+    {
+      "location": "Chennai",
+      "amount": "2500.00",
+      "date": "25-04-2022",
+      "marketplace": "ONDC",
+      "status": "Rejected",
+      "status_bgcolor": "#F5DADF",
+      "status_textcolor": "#FE5B5B"
+    },
+    {
+      "order_id": "17898",
+      "location": "Salem",
+      "amount": "1500.00",
+      "date": "25-04-2022",
+      "marketplace": "ONDC",
+      "status": "New Order",
+      "status_bgcolor": "#FFF0ED",
+      "status_textcolor": "#FFA28D"
+    },
+    {
+      "order_id": "17886",
+      "location": "Erode",
+      "amount": "1500.00",
+      "date": "29-05-2022",
+      "marketplace": "ONDC",
+      "status": "New Order",
+      "status_bgcolor": "#FFF0ED",
+      "status_textcolor": "#FFA28D"
+    },
+    {
+      "order_id": "17851",
+      "location": "Thoothukudi",
+      "amount": "2000.00",
+      "date": "18-05-2022",
+      "marketplace": "ONDC",
+      "status": "Rejected",
+      "status_bgcolor": "#F5DADF",
+      "status_textcolor": "#FE5B5B"
+    },
+    {
+      "order_id": "17820",
+      "location": "Tirunelveli",
+      "amount": "3500.00",
+      "date": "10-05-2022",
+      "marketplace": "CazhOn",
+      "status": "Completed",
+      "status_bgcolor": "#D9F3EA",
+      "status_textcolor": "#17B781"
+    },
+    {
+      "order_id": "25364",
+      "location": "Trichy",
+      "amount": "60000.00",
+      "date": "15-05-2022",
+      "marketplace": "ONDC",
+      "status": "Completed",
+      "status_bgcolor": "#D9F3EA",
+      "status_textcolor": "#17B781"
+    },
+    {
+      "order_id": "25365",
+      "location": "Trichy",
+      "amount": "9500.00",
+      "date": "26-06-2022",
+      "marketplace": "CazhOn",
+      "status": "On delivery",
+      "status_bgcolor": "#DFF0FA",
+      "status_textcolor": "#309DDB"
+    },
+    {
+      "order_id": "25369",
+      "location": "Salem",
+      "amount": "7500.00",
+      "date": "26-06-2022",
+      "marketplace": "ONDC",
+      "status": "Rejected",
+      "status_bgcolor": "#F5DADF",
+      "status_textcolor": "#FE5B5B"
+    },
+    {
+      "order_id": "25368",
+      "location": "Coimbatore",
+      "amount": "65000.00",
+      "date": "26-06-2022",
+      "marketplace": "CazhOn",
+      "status": "Rejected",
+      "status_bgcolor": "#F5DADF",
+      "status_textcolor": "#FE5B5B"
+    },
+    {
+      "order_id": "17872",
+      "location": "Vellore",
+      "amount": "1500.00",
+      "date": "25-06-2022",
+      "marketplace": "CazhOn",
+      "status": "Rejected",
+      "status_bgcolor": "#F5DADF",
+      "status_textcolor": "#FE5B5B"
+    }
+  ]
+  }
+  
