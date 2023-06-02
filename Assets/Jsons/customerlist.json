@@ -1,163 +1,164 @@
-{"customerlist":[
-	{
-	 "customer_id": "17880",
-	 "joined_date":"18-03-2022",
-	 "customer_name": "Anbu",
-      "location": "Chennai",
-      "total_spent": "3000.00",
-       "last_order": "65.35"
-	},
-    {
+{
+    "customerlist": [
+      {
+        "customer_id": "17880",
+        "joined_date": "18-03-2022",
+        "customer_name": "Anbu",
+        "location": "Chennai",
+        "total_spent": "3000.00",
+        "last_order": "65.35"
+      },
+      {
         "customer_id": "17884",
         "joined_date": "20-03-2022",
         "customer_name": "Srimaan",
-         "location": "Salem",
-         "total_spent": "7500.00",
-          "last_order": "81.65"
-       },
-       {
+        "location": "Salem",
+        "total_spent": "7500.00",
+        "last_order": "81.65"
+      },
+      {
         "customer_id": "18920",
-        "joined_date":"26-03-2022",
+        "joined_date": "26-03-2022",
         "customer_name": "Ram",
-         "location": "Erode",
-         "total_spent": "25000.00",
-          "last_order": "3500.60"
-       },
-       {
+        "location": "Erode",
+        "total_spent": "25000.00",
+        "last_order": "3500.60"
+      },
+      {
         "customer_id": "18925",
         "joined_date": "30-03-2022",
         "customer_name": "Seetha",
-         "location": "Trichy",
-         "total_spent": "3650.00",
-          "last_order": "153.60"
-       },
-       {
+        "location": "Trichy",
+        "total_spent": "3650.00",
+        "last_order": "153.60"
+      },
+      {
         "customer_id": "18964",
         "joined_date": "01-04-2022",
         "customer_name": "Lakshmi",
-         "location": "Coimbatore",
-         "total_spent": "4586.00",
-          "last_order": "360.25"
-       },
-       {
+        "location": "Coimbatore",
+        "total_spent": "4586.00",
+        "last_order": "360.25"
+      },
+      {
         "customer_id": "18654",
         "joined_date": "09-04-2022",
         "customer_name": "Kumar",
-         "location": "Tirunelveli",
-         "total_spent": "98456.00",
-          "last_order": "6500.09"
-       },
-       {
+        "location": "Tirunelveli",
+        "total_spent": "98456.00",
+        "last_order": "6500.09"
+      },
+      {
         "customer_id": "18728",
-        "joined_date":"12-04-2022",
+        "joined_date": "12-04-2022",
         "customer_name": "Deva",
-         "location": "Salem",
-         "total_spent": "96500.00",
-          "last_order": "1500.36"
-       },
-       {
+        "location": "Salem",
+        "total_spent": "96500.00",
+        "last_order": "1500.36"
+      },
+      {
         "customer_id": "18369",
         "joined_date": "16-04-2022",
         "customer_name": "Santhosh",
-         "location": "Coimbatore",
-         "total_spent": "7800.00",
-          "last_order": "69.36"
-       },
-       {
+        "location": "Coimbatore",
+        "total_spent": "7800.00",
+        "last_order": "69.36"
+      },
+      {
         "customer_id": "17456",
         "joined_date": "19-04-2022",
         "customer_name": "Tamil",
-         "location": "Trichy",
-         "total_spent": "3600.00",
-          "last_order": "67.39"
-       },
-       {
+        "location": "Trichy",
+        "total_spent": "3600.00",
+        "last_order": "67.39"
+      },
+      {
         "customer_id": "17963",
         "joined_date": "22-04-2022",
         "customer_name": "Pradeep",
-         "location": "Tirunelveli",
-         "total_spent": "78000.00",
-          "last_order": "3500.06"
-       },
-       {
+        "location": "Tirunelveli",
+        "total_spent": "78000.00",
+        "last_order": "3500.06"
+      },
+      {
         "customer_id": "17456",
-        "joined_date":  "24-04-2022",
+        "joined_date": "24-04-2022",
         "customer_name": "Marimuthu",
-         "location": "Tirunelveli",
-         "total_spent": "6500.00",
-          "last_order": "65.14"
-       },
-       {
+        "location": "Tirunelveli",
+        "total_spent": "6500.00",
+        "last_order": "65.14"
+      },
+      {
         "customer_id": "16321",
-        "joined_date":"25-04-2022",
+        "joined_date": "25-04-2022",
         "customer_name": "Ramya",
-         "location": "Salem",
-         "total_spent": "7500.00",
-          "last_order": "97.64"
-       },
-       {
+        "location": "Salem",
+        "total_spent": "7500.00",
+        "last_order": "97.64"
+      },
+      {
         "customer_id": "17486",
-        "joined_date":"29-05-2022",
+        "joined_date": "29-05-2022",
         "customer_name": "Vimal",
-         "location": "Salem",
-         "total_spent": "10000.00",
-          "last_order": "650.00"
-       },
-       {
+        "location": "Salem",
+        "total_spent": "10000.00",
+        "last_order": "650.00"
+      },
+      {
         "customer_id": "17426",
-        "joined_date":  "18-05-2022",
+        "joined_date": "18-05-2022",
         "customer_name": "Vijay",
-         "location": "Chennai",
-         "total_spent": "6500.00",
-          "last_order": "150.65"
-       },
-       {
+        "location": "Chennai",
+        "total_spent": "6500.00",
+        "last_order": "150.65"
+      },
+      {
         "customer_id": "17753",
         "joined_date": "10-05-2022",
         "customer_name": "Poovarasan",
-         "location": "Chennai",
-         "total_spent": "3000.00",
-          "last_order": "65.63"
-       },
-       {
+        "location": "Chennai",
+        "total_spent": "3000.00",
+        "last_order": "65.63"
+      },
+      {
         "customer_id": "19753",
         "joined_date": "15-05-2022",
         "customer_name": "Srihari",
-         "location": "Dindugal",
-         "total_spent": "3500.00",
-          "last_order": "120.65"
-       },
-       {
+        "location": "Dindugal",
+        "total_spent": "3500.00",
+        "last_order": "120.65"
+      },
+      {
         "customer_id": "19743",
         "joined_date": "26-06-2022",
         "customer_name": "Bala",
-         "location": "Madurai",
-         "total_spent": "4000.00",
-          "last_order": "98.00"
-       },
-       {
+        "location": "Madurai",
+        "total_spent": "4000.00",
+        "last_order": "98.00"
+      },
+      {
         "customer_id": "17852",
         "joined_date": "26-06-2022",
         "customer_name": "Sakthi",
-         "location": "Kanchipuram",
-         "total_spent": "15000.00",
-          "last_order": "450.00"
-       },
-       {
+        "location": "Kanchipuram",
+        "total_spent": "15000.00",
+        "last_order": "450.00"
+      },
+      {
         "customer_id": "17465",
-        "joined_date":"26-06-2022",
+        "joined_date": "26-06-2022",
         "customer_name": "Saranya",
-         "location": "Madurai",
-         "total_spent": "4500.00",
-          "last_order": "65.98"
-       },
-       {
+        "location": "Madurai",
+        "total_spent": "4500.00",
+        "last_order": "65.98"
+      },
+      {
         "customer_id": "19844",
         "joined_date": "25-06-2022",
         "customer_name": "Jeeva",
-         "location": "Salem",
-         "total_spent": "78000.00",
-          "last_order": "180.00"
-       }
-    
-    ]}
+        "location": "Salem",
+        "total_spent": "78000.00",
+        "last_order": "180.00"
+      }
+    ]
+  }

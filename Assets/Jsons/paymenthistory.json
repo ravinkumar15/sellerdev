@@ -1,110 +1,109 @@
 {
-    "main_balance":"673,422.66",
-    "wallet_balance":"668,431.08",
-    "validity":"12-05-2023",
-    "cardholder_name":"Samantha Anderson",
-    "account_number":"1234 6549 7531 9513",
-    "income":"30%",
-    "expense":"20%",
-    "unknown":"50%",
-    "profit":"+0.8",
-    "payment_history":[
-        {
-            "customer_name":"Pradeep",
-            "activated_date":"25-06-2022",
-            "gain":"+0.66",
-            "payment_method":"Master Card",
-            "status":"Cancelled",
-            "payment_details":[
-                {
-                    "order_id":"17896",
-                    "payment_method":"Master Card",
-                    "invoice_date":"27-06-2022",
-                    "due_date":"29-06-2022",
-                    "paid_date":"28-06-2022"
-                }
-            ]
-        },
-        {
-            "customer_name":"srimaan",
-            "activated_date":"28-06-2022",
-            "gain":"+0.23",
-            "payment_method":"Autopay",
-            "status":"Pending",
-            "payment_details":[
-                {
-                    "order_id":"16782",
-                    "payment_method":"Autopay",
-                    "invoice_date":"30-06-2022",
-                    "due_date":"03-07-2022",
-                    "paid_date":"02-07-2022"
-                }
-            ]
-        },
-        {
-            "customer_name":"Santhosh",
-            "activated_date":"02-07-2022",
-            "gain":"+0.87",
-            "payment_method":"Master Card",
-            "status":"Completed",
-            "payment_details":[
-                {
-                    "order_id":"19753",
-                    "payment_method":"Master Card",
-                    "invoice_date":"05-07-2022",
-                    "due_date":"09-07-2022",
-                    "paid_date":"09-07-2022"
-                }
-            ]
-        },
-        {
-            "customer_name":"Vimal",
-            "activated_date":"08-07-2022",
-            "gain":"+0.76",
-            "payment_method":"Bank Transfer",
-            "status":"Completed",
-            "payment_details":[
-                {
-                    "order_id":"19684",
-                    "payment_method":"Bank Transfer",
-                    "invoice_date":"09-07-2022",
-                    "due_date":"10-07-2022",
-                    "paid_date":"09-07-2022"
-                }
-            ]
-        },
-        {
-            "customer_name":"Anbarasan",
-            "activated_date":"07-07-2022",
-            "gain":"+0.37",
-            "payment_method":"Bank Transfer",
-            "status":"Pending",
-            "payment_details":[
-                {
-                    "order_id":"19463",
-                    "payment_method":"Bank Transfer",
-                    "invoice_date":"10-07-2022",
-                    "due_date":"11-07-2022",
-                    "paid_date":"10-07-2022"
-                }
-            ]
-        },
-        {
-            "customer_name":"Ram",
-            "activated_date":"11-07-2022",
-            "gain":"+0.81",
-            "payment_method":"Master Card",
-            "status":"Pending",
-            "payment_details":[
-                {
-                    "order_id":"18151",
-                    "payment_method":"Master Card",
-                    "invoice_date":"15-07-2022",
-                    "due_date":"18-07-2022",
-                    "paid_date":"16-07-2022"
-                }
-            ]
-        }
+    "main_balance": "673,422.66",
+    "wallet_balance": "668,431.08",
+    "validity": "12-05-2023",
+    "cardholder_name": "Samantha Anderson",
+    "account_number": "1234 6549 7531 9513",
+    "income": "30%",
+    "expense": "20%",
+    "unknown": "50%",
+    "profit": "+0.8",
+    "payment_history": [
+      {
+        "customer_name": "Pradeep",
+        "activated_date": "25-06-2022",
+        "gain": "+0.66",
+        "payment_method": "Master Card",
+        "status": "Cancelled",
+        "payment_details": [
+          {
+            "order_id": "17896",
+            "payment_method": "Master Card",
+            "invoice_date": "27-06-2022",
+            "due_date": "29-06-2022",
+            "paid_date": "28-06-2022"
+          }
+        ]
+      },
+      {
+        "customer_name": "srimaan",
+        "activated_date": "28-06-2022",
+        "gain": "+0.23",
+        "payment_method": "Autopay",
+        "status": "Pending",
+        "payment_details": [
+          {
+            "order_id": "16782",
+            "payment_method": "Autopay",
+            "invoice_date": "30-06-2022",
+            "due_date": "03-07-2022",
+            "paid_date": "02-07-2022"
+          }
+        ]
+      },
+      {
+        "customer_name": "Santhosh",
+        "activated_date": "02-07-2022",
+        "gain": "+0.87",
+        "payment_method": "Master Card",
+        "status": "Completed",
+        "payment_details": [
+          {
+            "order_id": "19753",
+            "payment_method": "Master Card",
+            "invoice_date": "05-07-2022",
+            "due_date": "09-07-2022",
+            "paid_date": "09-07-2022"
+          }
+        ]
+      },
+      {
+        "customer_name": "Vimal",
+        "activated_date": "08-07-2022",
+        "gain": "+0.76",
+        "payment_method": "Bank Transfer",
+        "status": "Completed",
+        "payment_details": [
+          {
+            "order_id": "19684",
+            "payment_method": "Bank Transfer",
+            "invoice_date": "09-07-2022",
+            "due_date": "10-07-2022",
+            "paid_date": "09-07-2022"
+          }
+        ]
+      },
+      {
+        "customer_name": "Anbarasan",
+        "activated_date": "07-07-2022",
+        "gain": "+0.37",
+        "payment_method": "Bank Transfer",
+        "status": "Pending",
+        "payment_details": [
+          {
+            "order_id": "19463",
+            "payment_method": "Bank Transfer",
+            "invoice_date": "10-07-2022",
+            "due_date": "11-07-2022",
+            "paid_date": "10-07-2022"
+          }
+        ]
+      },
+      {
+        "customer_name": "Ram",
+        "activated_date": "11-07-2022",
+        "gain": "+0.81",
+        "payment_method": "Master Card",
+        "status": "Pending",
+        "payment_details": [
+          {
+            "order_id": "18151",
+            "payment_method": "Master Card",
+            "invoice_date": "15-07-2022",
+            "due_date": "18-07-2022",
+            "paid_date": "16-07-2022"
+          }
+        ]
+      }
     ]
-
-}
+  }
