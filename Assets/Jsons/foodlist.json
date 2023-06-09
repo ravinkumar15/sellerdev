@@ -1,0 +1,255 @@
+{
+"foodlist":[
+    {
+        "food_name":"Quick Lunch Thali With Chappathi",
+        "amount":"150",
+        "food_type":"Starters",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Mini Lunch Thali Without Chapati",
+        "amount":"260",
+        "food_type":"Starters",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"veg-Meal",
+        "amount":"320",
+        "food_type":"Starters",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Tamilnadu Meal",
+        "amount":"461",
+        "food_type":"Starters",
+        "image_url":"",
+        "image_name":""
+
+    },
+
+    {
+        "food_name":"Cream of Tomato Soup",
+        "amount":"199",
+        "food_type":"Soup",
+        "image_url":"",
+        "image_name":""
+    },{
+        "food_name":"Cream of Veg Soup",
+        "amount":"99",
+        "food_type":"Soup",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Veg Sweet Corn Soup",
+        "amount":"69",
+        "food_type":"Soup",
+        "image_url":"",
+        "image_name":""
+    },
+
+    {
+        "food_name":"Mushroom Pepper Soup",
+        "amount":"119",
+        "food_type":"Soup",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Veg Sandwich",
+        "amount":"453",
+        "food_type":"Sandwiches",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Chilly Cheese Sandwich",
+        "amount":"574",
+        "food_type":"Sandwiches",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Bread Butter Jam Sandwich",
+        "amount":"129",
+        "food_type":"Sandwiches",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Cheese Sandwich",
+        "amount":"350",
+        "food_type":"Sandwiches",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Apple Milkshake",
+        "amount":"150",
+        "food_type":"Quick bites",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Mango Milkshake",
+        "amount":"180",
+        "food_type":"Quick bites",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Chikoo Milkshake",
+        "amount":"220",
+        "food_type":"Quick bites",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Banana Milkshake",
+        "amount":"300",
+        "food_type":"Quick bites",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Special Coffee",
+        "amount":"50",
+        "food_type":"Quick bites",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Special Tea",
+        "amount":"60",
+        "food_type":"Quick bites",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Horlicks",
+        "amount":"70",
+        "food_type":"Quick bites",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Kadhai Paneer ",
+        "amount":"250",
+        "food_type":"Main course",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Kaju Masala",
+        "amount":"350",
+        "food_type":"Main course",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Mushroom Pepper Masala",
+        "amount":"380",
+        "food_type":"Main course",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Paneer Tikka Masala",
+        "amount":"150",
+        "food_type":"Main course",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Paneer Butter Masala",
+        "amount":"300",
+        "food_type":"Main course",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Roti",
+        "amount":"50",
+        "food_type":"Bread",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Naan",
+        "amount":"60",
+        "food_type":"Bread",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Tandoori Paratha",
+        "amount":"50",
+        "food_type":"Bread",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Butter Naan",
+        "amount":"70",
+        "food_type":"Bread",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Butter Roti",
+        "amount":"50",
+        "food_type":"Bread",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Kulcha",
+        "amount":"60",
+        "food_type":"Bread",
+        "image_url":"",
+        "image_name":""
+
+    },
+
+    {
+        "food_name":"Paneer Biryani",
+        "amount":"390",
+        "food_type":"Rice and Biriyani",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Paneer Pulao",
+        "amount":"450",
+        "food_type":"Rice and Biriyani",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Mushroom Biryani",
+        "amount":"380",
+        "food_type":"Rice and Biriyani",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Veg Biryani",
+        "amount":"199",
+        "food_type":"Rice and Biriyani",
+        "image_url":"",
+        "image_name":""
+    },
+    {
+        "food_name":"Schezwan Fried Rice- Chilly Panner Dry",
+        "amount":"400",
+        "food_type":"Rice and Biriyani",
+        "image_url":"",
+        "image_name":""
+    }
+
+]
+
+}
