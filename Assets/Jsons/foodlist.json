@@ -4,7 +4,7 @@
         "food_name":"Quick Lunch Thali With Chappathi",
         "amount":"150",
         "food_type":"Starters",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/70b/5f96e1b78bfcb4e544482b6f9913d70b.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
@@ -18,14 +18,14 @@
         "food_name":"veg-Meal",
         "amount":"320",
         "food_type":"Starters",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/133/4fe6c69d2b7c8e5b47cad05339ed2133.png?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Tamilnadu Meal",
         "amount":"461",
         "food_type":"Starters",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/e48/3b90fc9b79fb1de764c865e2a3269e48.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
 
     },
@@ -34,20 +34,20 @@
         "food_name":"Cream of Tomato Soup",
         "amount":"199",
         "food_type":"Soup",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/9d2/6f130edeb7249051239d4544787379d2.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },{
         "food_name":"Cream of Veg Soup",
         "amount":"99",
         "food_type":"Soup",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/e18/b34031bc86dcfb25fba05528e5a50e18.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Veg Sweet Corn Soup",
         "amount":"69",
         "food_type":"Soup",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/102/261088489d2c88bf9b4303844137b102.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
 
@@ -55,161 +55,161 @@
         "food_name":"Mushroom Pepper Soup",
         "amount":"119",
         "food_type":"Soup",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/507/864991b5a1699b34b08d3a9601472507.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Veg Sandwich",
         "amount":"453",
         "food_type":"Sandwiches",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/c00/75b754da162fb9a419f49ab954335c00.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Chilly Cheese Sandwich",
         "amount":"574",
         "food_type":"Sandwiches",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/dce/43b3518a23d41324eb1f0551cb588dce.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Bread Butter Jam Sandwich",
         "amount":"129",
         "food_type":"Sandwiches",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/6c8/af7c1cb967fdb8ec1b1822120a6896c8.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Cheese Sandwich",
         "amount":"350",
         "food_type":"Sandwiches",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/18d/f6278bf3384dbef765d56037dc65c18d.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Apple Milkshake",
         "amount":"150",
         "food_type":"Quick bites",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/516/14482f5f67d436e327b7e7202d43b516.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Mango Milkshake",
         "amount":"180",
         "food_type":"Quick bites",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/6a9/bb88dd8d89fca4571cf022ef996e96a9.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Chikoo Milkshake",
         "amount":"220",
         "food_type":"Quick bites",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/be5/c6454b9016425d1b1f24d7ea89c9ebe5.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Banana Milkshake",
         "amount":"300",
         "food_type":"Quick bites",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/0cb/e76b74570650cb3ea6bcafd270cc90cb.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Special Coffee",
         "amount":"50",
         "food_type":"Quick bites",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/f97/14c87782abbc58bb1cf6972e49195f97.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Special Tea",
         "amount":"60",
         "food_type":"Quick bites",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/c7c/267ea68593011972c59767ff27e4bc7c.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Horlicks",
         "amount":"70",
         "food_type":"Quick bites",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/24f/490b07a9634b5cdcb511b89d0a41924f.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Kadhai Paneer ",
         "amount":"250",
         "food_type":"Main course",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/e30/5c46003a763529fa69cf7c195eb7be30.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Kaju Masala",
         "amount":"350",
         "food_type":"Main course",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/655/bbbcf8f831009f1a17d6978d40de4655.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Mushroom Pepper Masala",
         "amount":"380",
         "food_type":"Main course",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/2b0/cf102b6bde8c98645912a0778ab942b0.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Paneer Tikka Masala",
         "amount":"150",
         "food_type":"Main course",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/756/79261e83bfc33e26a8332c5edd808756.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Paneer Butter Masala",
         "amount":"300",
         "food_type":"Main course",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/f55/47529c2c1b1b20ccad98c6d799a49f55.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Roti",
         "amount":"50",
         "food_type":"Bread",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/26d/fcaf408ed740666c4c094f626629926d.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Naan",
         "amount":"60",
         "food_type":"Bread",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/936/94e2de685338709be628d045306b5936.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Tandoori Paratha",
         "amount":"50",
         "food_type":"Bread",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/630/f0a5d2b775d3e9375dc9384bed040630.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Butter Naan",
         "amount":"70",
         "food_type":"Bread",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/62b/55c905629c4cb418de300df17fe7762b.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Butter Roti",
         "amount":"50",
         "food_type":"Bread",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/c42/e7aa0f2861ae3add284b5981bd990c42.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Kulcha",
         "amount":"60",
         "food_type":"Bread",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/29b/4ade5d1220c61ac9825692004bf8e29b.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
 
     },
@@ -218,35 +218,35 @@
         "food_name":"Paneer Biryani",
         "amount":"390",
         "food_type":"Rice and Biriyani",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/2b3/7875dde49ca37b4e9ec1f8ff173aa2b3.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Paneer Pulao",
         "amount":"450",
         "food_type":"Rice and Biriyani",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/a5c/7367dc4cc1730f5180e1555b08d47a5c.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Mushroom Biryani",
         "amount":"380",
         "food_type":"Rice and Biriyani",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/7ce/5fe9ea821af9a3a4c62b471d542337ce.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Veg Biryani",
         "amount":"199",
         "food_type":"Rice and Biriyani",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/07a/9235c8d07877928f836b24ccfe45d07a.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     },
     {
         "food_name":"Schezwan Fried Rice- Chilly Panner Dry",
         "amount":"400",
         "food_type":"Rice and Biriyani",
-        "image_url":"",
+        "image_url":"https://b.zmtcdn.com/data/dish_photos/61e/a4b8ef00bd38a98a095cb01ee2a5f61e.jpg?fit=around|130:130&crop=130:130;*,*",
         "image_name":""
     }
 
