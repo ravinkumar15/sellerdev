@@ -9,7 +9,7 @@
             "user_Name": "Raberto Jr",
             "user_Role": "Graphic Designer",
             "user_Rating": "4.5",
-            "user_Img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1687155721~exp=1687156321~hmac=0676af6ff0021c679a950ecb3ec4eb98aaa7d723a90bd75e785234956c5e7cd1"
+            "user_Img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1687155721~exp=1687156321~hmac=0676af6ff0021c679a950ecb3ec4eb98aaa7d723a90bd75e785234956c5e7cd1",
         },
         {
            
@@ -20,7 +20,7 @@
             "user_Name": "Mister Dark ",
             "user_Role": "Product Manager",
             "user_Rating": "4.8",
-            "user_Img": "file:///C:/Users/czsan/Downloads/1687155946235.JPEG"
+            "user_Img": "file:///C:/Users/czsan/Downloads/1687155946235.JPEG",
             
         },
         {
@@ -32,7 +32,7 @@
             "user_Name": "Cristiano Luffy",
             "user_Role": "World Bank CEO",
             "user_Rating": "4.9",
-            "user_Img": "file:///C:/Users/czsan/Downloads/processed-652539f7-6244-4dd6-8e39-b7a05d5c435f_qEDcxhT5.jpeg"
+            "user_Img": "file:///C:/Users/czsan/Downloads/processed-652539f7-6244-4dd6-8e39-b7a05d5c435f_qEDcxhT5.jpeg",
         },
         {
             
@@ -43,7 +43,7 @@
             "user_Name": "Charlotte",
             "user_Role": " UI Graphic Designer",
             "user_Rating": "4.7",
-            "user_Img": "https://images.unsplash.com/photo-1645378999496-33c8c2afe38d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+            "user_Img": "https://images.unsplash.com/photo-1645378999496-33c8c2afe38d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
         },
         {
             "product_ImgUrl": "https://img.freepik.com/free-photo/vertical-shot-traditional-indian-paneer-butter-masala-cheese-cottage-curry-black-surface_181624-32001.jpg?w=740&t=st=1687154182~exp=1687154782~hmac=9e1079439477ef59453dec03d5747c734d9528069d3c12e3c2f1daa525d9e97f",
@@ -53,7 +53,7 @@
             "user_Name": "Alexander",
             "user_Role": " UI Graphic Designer",
             "user_Rating": "4.7",
-            "user_Img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80"
+            "user_Img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80",
            
         }],
         "otherReviw":[
@@ -63,7 +63,7 @@
             "review_Type": [ "Good Service","Good Places","Excellent"],
             "user_Name": "Alexander",
             "user_RoleDate": "Head Marketing 19 June 2023",
-            "user_Rating": "4.7"
+            "user_Rating": "4.7",
             },
             {
                 "User_Img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1687155721~exp=1687156321~hmac=0676af6ff0021c679a950ecb3ec4eb98aaa7d723a90bd75e785234956c5e7cd1",
@@ -71,7 +71,7 @@
                 "review_Type": ["Good Places","Excellent"],
                 "user_Name": "Charlotte",
                 "user_RoleDate": "Marketing 12 June 2023",
-                "user_Rating": "3.9"
+                "user_Rating": "3.9",
             },
             {
                 "User_Img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80",
@@ -79,7 +79,7 @@
                 "review_Type": ["Good Service","Good Places","Excellent"],
                 "user_Name": "Noah",
                 "user_RoleDate": "UI Designer 11 June 2023",
-                "user_Rating": "4.9"
+                "user_Rating": "4.9",
             },
             {
                 "User_Img": "https://images.unsplash.com/photo-1645378999496-33c8c2afe38d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
@@ -87,7 +87,7 @@
                 "review_Type": ["Good Service","Good Places"],
                 "user_Name": "James",
                 "user_RoleDate": "Marketing Manager 1 June 2023",
-                "user_Rating": "4.5"
+                "user_Rating": "4.5",
             },
             {
                 "User_Img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1687155721~exp=1687156321~hmac=0676af6ff0021c679a950ecb3ec4eb98aaa7d723a90bd75e785234956c5e7cd1",
@@ -95,7 +95,7 @@
                 "review_Type": ["Good Service","Good Places"],
                 "user_Name": "William",
                 "user_RoleDate": "UX Designer 8 Apr 2023",
-                "user_Rating": "4.3"
+                "user_Rating": "4.3",
             },
             {
                 "User_Img": "https://images.unsplash.com/photo-1645830166230-187caf791b90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
@@ -103,7 +103,7 @@
                 "review_Type": ["Good Service","Good Places","Excellent"],
                 "user_Name": "Stellar Eats",
                 "user_RoleDate": "Marketing 4 Apr 2023",
-                "user_Rating": "3.9"
+                "user_Rating": "3.9",
             },
             {
                 "User_Img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80",
@@ -111,7 +111,7 @@
                 "review_Type": ["Good Service","Excellent"],
                 "user_Name": "Nebula Bites",
                 "user_RoleDate": "Marketing Manager 2 Apr 2023",
-                "user_Rating": "4.9"
+                "user_Rating": "4.9",
             },
             {
                 "User_Img": "https://images.unsplash.com/photo-1645378999496-33c8c2afe38d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
@@ -119,7 +119,7 @@
                 "review_Type": ["Good Service","Good Places","Excellent"],
                 "user_Name": "Cosmic Fusion",
                 "user_RoleDate": "Product Manager 1 Apr 2023",
-                "user_Rating": "4.5"
+                "user_Rating": "4.5",
             }
         ]
 
