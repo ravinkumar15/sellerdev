@@ -60,7 +60,7 @@
             {
             "User_Img": "https://images.unsplash.com/photo-1645830166230-187caf791b90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
             "product_Description": "We recently had dinner with friends at David CC and we all walked away with a great experience. Good food,pleasant environment, personal attention through all the evening. Thanks to the team and we will be back! | will give a good recommendation to my friend, family and people what i look.",
-            "review_Type": [{"review":"Good Service"}],
+            "review_Type": [{"review":"Good Service"},{"review":"Good Food"}],
             "user_Name": "Alexander",
             "user_RoleDate": "Head Marketing 19 June 2023",
             "user_Rating": "4.7"
@@ -68,7 +68,7 @@
             {
                 "User_Img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1687155721~exp=1687156321~hmac=0676af6ff0021c679a950ecb3ec4eb98aaa7d723a90bd75e785234956c5e7cd1",
                 "product_Description": "We recently had dinner with friends at David CC and we all walked away with a great experience. Good food,pleasant environment, personal attention through all the evening. Thanks to the team and we will be back! | will give a good recommendation to my friend, family and people what i look.",
-                "review_Type": [{"review":"Good Service"}],
+                "review_Type": [{"review":"Good Service"},{"review":"Good Food"},{"review":"Excellent"}],
                 "user_Name": "Charlotte",
                 "user_RoleDate": "Marketing 12 June 2023",
                 "user_Rating": "3.9"
@@ -76,7 +76,7 @@
             {
                 "User_Img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80",
                 "product_Description": "Wow! My experience at [Restaurant Name] was absolutely fantastic. The moment I walked in, I was greeted by friendly and attentive staff who made me feel welcomed. The ambiance was cozy and inviting, creating the perfect atmosphere for a memorable dining experience.",
-                "review_Type": [{"review":"Good Service"}],
+                "review_Type": [{"review":"Excellent"}],
                 "user_Name": "Noah",
                 "user_RoleDate": "UI Designer 11 June 2023",
                 "user_Rating": "4.9"
@@ -92,7 +92,7 @@
             {
                 "User_Img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1687155721~exp=1687156321~hmac=0676af6ff0021c679a950ecb3ec4eb98aaa7d723a90bd75e785234956c5e7cd1",
                 "product_Description": "To top it all off, the attention to detail and the little extras made the experience truly memorable. From the complimentary bread basket to the personalized dessert surprise for a special occasion, they went above and beyond to make us feel valued as customers.",
-                "review_Type": [{"review":"Good Service"}],
+                "review_Type": [{"review":"Good Food"}],
                 "user_Name": "William",
                 "user_RoleDate": "UX Designer 8 Apr 2023",
                 "user_Rating": "4.3"
