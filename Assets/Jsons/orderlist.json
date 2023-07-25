@@ -4,7 +4,7 @@
       "location": "Chennai",
       "sale_amount": "2000.00",
       "activated_date": "22-04-2022",
-      "marketplace": "CazhOn",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/amazon.png",
       "status": "New Order",
       "status_bgcolor": "#FFF0ED",
       "status_textcolor": "#FFA28D"
@@ -14,7 +14,7 @@
       "location": "Salem",
       "sale_amount": "3500.00",
       "activated_date": "12-03-2022",
-      "marketplace": "CazhOn",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/amazon.png",
       "status": "New Order",
       "status_bgcolor": "#FFF0ED",
       "status_textcolor": "#FFA28D"
@@ -24,7 +24,7 @@
       "location": "Trichy",
       "sale_amount": "95000.00",
       "activated_date": "15-03-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/ondc.png",
       "status": "Confirmed",
       "status_bgcolor": "#DEDEE8",
       "status_textcolor": "#ED647298"
@@ -34,7 +34,7 @@
       "location": "Tirunelveli",
       "sale_amount": "1500.00",
       "activated_date": "15-03-2022",
-      "marketplace": "CazhOn",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/flipkart.png",
       "status": "Confirmed",
       "status_bgcolor": "#DEDEE8",
       "status_textcolor": "#ED647298"
@@ -44,7 +44,7 @@
       "location": "Kanchipuram",
       "sale_amount": "2000.00",
       "activated_date": "18-03-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/amazon.png",
       "status": "Rejected",
       "status_bgcolor": "#F5DADF",
       "status_textcolor": "#FE5B5B"
@@ -54,7 +54,7 @@
       "location": "Madurai",
       "sale_amount": "1700.00",
       "activated_date": "20-03-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/flipkart.png",
       "status": "On delivery",
       "status_bgcolor": "#DFF0FA ",
       "status_textcolor": "#309DDB"
@@ -64,7 +64,7 @@
       "location": "Coimbatore",
       "sale_amount": "1500.00",
       "activated_date": "26-03-2022",
-      "marketplace": "CazhOn",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/ondc.png",
       "status": "Completed",
       "status_bgcolor": "#D9F3EA ",
       "status_textcolor": "#17B781"
@@ -74,7 +74,7 @@
       "location": "Chennai",
       "sale_amount": "98000.00",
       "activated_date": "26-03-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/flipkart.png",
       "status": "New Order",
       "status_bgcolor": "#FFF0ED ",
       "status_textcolor": "#FFA28D"
@@ -84,7 +84,7 @@
       "location": "Thoothukudi",
       "sale_amount": "100000.00",
       "activated_date": "30-03-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/amazon.png",
       "status": "On delivery",
       "status_bgcolor": "#DFF0FA",
       "status_textcolor": "#309DDB"
@@ -94,7 +94,7 @@
       "location": "Pondichery",
       "sale_amount": "15000.00",
       "activated_date": "01-04-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/ondc.png",
       "status": "Completed",
       "status_bgcolor": "#D9F3EA",
       "status_textcolor": "#17B781"
@@ -104,7 +104,7 @@
       "location": "Vellore",
       "sale_amount": "5000.00",
       "activated_date": "09-04-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/flipkart.png",
       "status": "Rejected",
       "status_bgcolor": "#F5DADF",
       "status_textcolor": "#FE5B5B"
@@ -114,7 +114,7 @@
       "location": "Dharmapuri",
       "sale_amount": "3000.00",
       "activated_date": "12-04-2022",
-      "marketplace": "CazhOn",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/amazon.png",
       "status": "Confirmed",
       "status_bgcolor": "#DEDEE8",
       "status_textcolor": "#ED647298"
@@ -124,7 +124,7 @@
       "location": "Erode",
       "sale_amount": "500.00",
       "activated_date": "16-04-2022",
-      "marketplace": "CazhOn",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/flipkart.png",
       "status": "Confirmed",
       "status_bgcolor": "#DEDEE8",
       "status_textcolor": "#ED647298"
@@ -134,7 +134,7 @@
       "location": "Chennai",
       "sale_amount": "6000.00",
       "activated_date": "19-04-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/ondc.png",
       "status": "On delivery",
       "status_bgcolor": "#DFF0FA",
       "status_textcolor": "#309DDB"
@@ -144,7 +144,7 @@
       "location": "Chennai",
       "sale_amount": "15000.00",
       "activated_date": "24-04-2022",
-      "marketplace": "CazhOn",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/amazon.png",
       "status": "Confirmed",
       "status_bgcolor": "#DEDEE8",
       "status_textcolor": "#ED647298"
@@ -153,7 +153,7 @@
       "location": "Chennai",
       "sale_amount": "2500.00",
       "activated_date": "25-04-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/flipkart.png",
       "status": "Rejected",
       "status_bgcolor": "#F5DADF",
       "status_textcolor": "#FE5B5B"
@@ -163,7 +163,7 @@
       "location": "Salem",
       "sale_amount": "1500.00",
       "activated_date": "25-04-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/ondc.png",
       "status": "New Order",
       "status_bgcolor": "#FFF0ED",
       "status_textcolor": "#FFA28D"
@@ -173,7 +173,7 @@
       "location": "Erode",
       "sale_amount": "1500.00",
       "activated_date": "29-05-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/flipkart.png",
       "status": "New Order",
       "status_bgcolor": "#FFF0ED",
       "status_textcolor": "#FFA28D"
@@ -183,7 +183,7 @@
       "location": "Thoothukudi",
       "sale_amount": "2000.00",
       "activated_date": "18-05-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/amazon.png",
       "status": "Rejected",
       "status_bgcolor": "#F5DADF",
       "status_textcolor": "#FE5B5B"
@@ -193,7 +193,7 @@
       "location": "Tirunelveli",
       "sale_amount": "3500.00",
       "activated_date": "10-05-2022",
-      "marketplace": "CazhOn",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/ondc.png",
       "status": "Completed",
       "status_bgcolor": "#D9F3EA",
       "status_textcolor": "#17B781"
@@ -203,7 +203,7 @@
       "location": "Trichy",
       "sale_amount": "60000.00",
       "activated_date": "15-05-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/amazon.png",
       "status": "Completed",
       "status_bgcolor": "#D9F3EA",
       "status_textcolor": "#17B781"
@@ -213,7 +213,7 @@
       "location": "Trichy",
       "sale_amount": "9500.00",
       "activated_date": "26-06-2022",
-      "marketplace": "CazhOn",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/flipkart.png",
       "status": "On delivery",
       "status_bgcolor": "#DFF0FA",
       "status_textcolor": "#309DDB"
@@ -223,7 +223,7 @@
       "location": "Salem",
       "sale_amount": "7500.00",
       "activated_date": "26-06-2022",
-      "marketplace": "ONDC",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/ondc.png",
       "status": "Rejected",
       "status_bgcolor": "#F5DADF",
       "status_textcolor": "#FE5B5B"
@@ -233,7 +233,7 @@
       "location": "Coimbatore",
       "sale_amount": "65000.00",
       "activated_date": "26-06-2022",
-      "marketplace": "CazhOn",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/amazon.png",
       "status": "Rejected",
       "status_bgcolor": "#F5DADF",
       "status_textcolor": "#FE5B5B"
@@ -243,7 +243,7 @@
       "location": "Vellore",
       "sale_amount": "1500.00",
       "activated_date": "25-06-2022",
-      "marketplace": "CazhOn",
+      "marketplace": "https://ravinkumar15.github.io/sellerdev/Assets/images/flipkart.png",
       "status": "Rejected",
       "status_bgcolor": "#F5DADF",
       "status_textcolor": "#FE5B5B"
