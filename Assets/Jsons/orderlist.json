@@ -255,11 +255,12 @@
       "sale_amount": "650.00",
       "marketplace": "",
       "discount": "4 x 430.OO",
-      "circle bgcolor": "fffff",
+      "circle_bgcolor": "fffff",
       "subtotal": "450.00",
-      "discount sales": "-50.00",
-      "total sales tax": "5.00",
-      "total": "405.00"
+      "discount_sales": "-50.00",
+      "total_sales_tax": "5.00",
+      "total": "405.00",
+      "image_url":"https://ravinkumar15.github.io/sellerdev/Assets/images/groundnutoil.png"
     },
     {
       "store name": "Sesame Oil (1L Pack Of 1)",
@@ -270,7 +271,8 @@
       "subtotal": "450.00",
       "discount sales": "-50.00",
       "total sales tax": "5.00",
-      "total": "405.00"
+      "total": "405.00",
+      "image_url":"https://ravinkumar15.github.io/sellerdev/Assets/images/seasameoil.png"
     }, {
       "store name": "Groundnut + Sesame Oil 1+1(2L Pack Of 2)",
       "sale_amount": "1500.00",
@@ -280,7 +282,8 @@
       "subtotal": "300.00",
       "discount sales": "-50.00",
       "total sales tax": "5.00",
-      "total": "405.00"
+      "total": "405.00",
+      "image_url":"https://ravinkumar15.github.io/sellerdev/Assets/images/packof2.png"
     },
 {
       "store name": "Groundnut + Sesame+ Coconut Oil 1+1+1 (3L Pack Of 3)",
@@ -291,7 +294,8 @@
       "subtotal": "450.00",
       "discount sales": "-50.00",
       "total sales tax": "5.00",
-      "total": "405.00"
+      "total": "405.00",
+      "image_url":"https://ravinkumar15.github.io/sellerdev/Assets/images/packof3.png"
     },
     {
       "store name": "Groundnut(2L Pack Of 2)",
@@ -302,7 +306,8 @@
       "subtotal": "300.00",
       "discount sales": "-50.00",
       "total sales tax": "5.00",
-      "total": "405.00"
+      "total": "405.00",
+      "image_url":"https://ravinkumar15.github.io/sellerdev/Assets/images/packof2.png"
     },
 {
       "store name": "Sesame+ Coconut Oil 1+1 (2L Pack Of 2)",
@@ -313,7 +318,8 @@
       "subtotal": "450.00",
       "discount sales": "-50.00",
       "total sales tax": "5.00",
-      "total": "405.00"
+      "total": "405.00",
+      "image_url":"https://ravinkumar15.github.io/sellerdev/Assets/images/packof2.png"
     }
   ]
   }
