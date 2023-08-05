@@ -251,7 +251,7 @@
   ],
   "orderDetail":[
     {
-      "store name": "Groundnut Oil (1L Pack Of 1)",
+      "store_name": "Groundnut Oil (1L Pack Of 1)",
       "sale_amount": "650.00",
       "marketplace": "",
       "discount": "4 x 430.OO",
@@ -263,7 +263,7 @@
       "image_url":"https://ravinkumar15.github.io/sellerdev/Assets/images/groundnutoil.png"
     },
     {
-      "store name": "Sesame Oil (1L Pack Of 1)",
+      "store_name": "Sesame Oil (1L Pack Of 1)",
       "sale_amount": "750.00",
       "marketplace": "",
       "discount": "3 x 380.00",
@@ -274,7 +274,7 @@
       "total": "405.00",
       "image_url":"https://ravinkumar15.github.io/sellerdev/Assets/images/seasameoil.png"
     }, {
-      "store name": "Groundnut + Sesame Oil 1+1(2L Pack Of 2)",
+      "store_name": "Groundnut + Sesame Oil 1+1(2L Pack Of 2)",
       "sale_amount": "1500.00",
       "marketplace": "",
       "discount": "2 x 550.00",
@@ -286,7 +286,7 @@
       "image_url":"https://ravinkumar15.github.io/sellerdev/Assets/images/packof2.png"
     },
 {
-      "store name": "Groundnut + Sesame+ Coconut Oil 1+1+1 (3L Pack Of 3)",
+      "store_name": "Groundnut + Sesame+ Coconut Oil 1+1+1 (3L Pack Of 3)",
       "sale_amount": "1280.00",
       "marketplace": "",
       "discount": "1 x 570.00",
@@ -298,7 +298,7 @@
       "image_url":"https://ravinkumar15.github.io/sellerdev/Assets/images/packof3.png"
     },
     {
-      "store name": "Groundnut(2L Pack Of 2)",
+      "store_name": "Groundnut(2L Pack Of 2)",
       "sale_amount": "1300.00",
       "marketplace": "",
       "discount": "2 x 550.00",
@@ -310,7 +310,7 @@
       "image_url":"https://ravinkumar15.github.io/sellerdev/Assets/images/packof2.png"
     },
 {
-      "store name": "Sesame+ Coconut Oil 1+1 (2L Pack Of 2)",
+      "store_name": "Sesame+ Coconut Oil 1+1 (2L Pack Of 2)",
       "sale_amount": "2500.00",
       "marketplace": "",
       "discount": "1 x 570.00",
